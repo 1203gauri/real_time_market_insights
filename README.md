@@ -1,4 +1,7 @@
-Candle Stick Pattern Detection
+
+![image](https://github.com/1203gauri/real_time_market_insights/assets/147191401/711ea98c-1f30-493d-9444-aedddd86c69d)
+
+Candle Stick Pattern Detection:
 It is Japanese method for prediction of the stock prices. Candlestick pattern prediction involves analyzing the formations of candlesticks on a price chart to forecast future price movements in financial markets, such as stocks, forex, or cryptocurrencies. Traders use patterns formed by candlesticks, such as doji, hammer, engulfing, and others, along with other technical indicators, to anticipate potential market direction changes.
 
 
